@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Ejer02 {
 
+    //Checar    
+    
     public Ejer02(){
 
     }
