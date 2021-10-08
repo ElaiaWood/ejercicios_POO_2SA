@@ -1,7 +1,19 @@
 import java.util.Scanner;
-//Cambiar el nombre de los arreglos y llaves
-//Crear el metodo de impresion
+
+//        Santiago Hirochi Cibriano Trejo
+//        Christian Dayana De La Cruz López
+//        Gaspar Emiliano Euan Puc
+//        Elias Uriel Xool Feria
+
+//    10.- La serie de Fibonacci empieza con los términos 0 y 1, y tiene la propiedad de que cada término
+//    sucesivo es la suma de los dos términos anteriores (Ej. 0,1,1,2,3,5,8,13,…. ). Calcular: a) el enésimo
+//    término, introduciendo el valor de n para calcularlo, b) cuál es el número más grande que se puede
+//    calcular.
+
 public class Ejer10 {
+
+
+
 
     public Ejer10(){
 
@@ -22,7 +34,6 @@ public class Ejer10 {
         //Llamada de los metodos
         Jorvik.metodoA(numero);
         Jorvik.metodoB();
-
     }
 
     // a) El enésimo término, introduciendo el valor de n para calcularlo

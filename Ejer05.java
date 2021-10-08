@@ -1,10 +1,18 @@
 import java.util.Scanner;
 
-public class Ejer05 {
+//        Santiago Hirochi Cibriano Trejo
+//        Christian Dayana De La Cruz López
+//        Gaspar Emiliano Euan Puc
+//        Elias Uriel Xool Feria
 
-    //Cambiar el nombre de los arreglos y llaves
-    //Crear el metodo de impresion
-    //Cambiar de int a float
+//    5.- Se proporciona un conjunto de números enteros, que se encuentran en una matriz cuadrada de
+//    N. Se desea obtener: a) la suma de los números en la diagonal principal, b) la suma de los números
+//    que están “arriba” de la diagonal principal, c) la suma de los números que están “abajo” de la
+//    diagonal principal, d) el mayor de los números del inciso a, e) el menor de los números del inciso b,
+//    f) el promedio de los números del inciso c, g) imprimir resultados. NOTA: se debe usar un arreglo
+//    para resolver todos los incisos de este problema.
+
+public class Ejer05 {
 
     public Ejer05()
     {

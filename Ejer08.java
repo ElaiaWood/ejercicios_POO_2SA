@@ -1,6 +1,17 @@
 import java.util.Locale;
 import java.util.Scanner;
 
+//        Santiago Hirochi Cibriano Trejo
+//        Christian Dayana De La Cruz López
+//        Gaspar Emiliano Euan Puc
+//        Elias Uriel Xool Feria
+
+//8.- Se proporcionan N nombres que se encuentran cada uno en un arreglo de objetos String. Se
+//        desea: a) imprimir el nombre en mayúsculas, b) imprimir el nombre en minúsculas, c) cambiar las
+//        vocales de cada nombre por “X”, d) cambiar los espacios en blanco por “+”, e) imprimir cada una de
+//        las respuestas halladas.
+
+
 public class Ejer08 {
     public Ejer08(){
 
@@ -76,11 +87,10 @@ public class Ejer08 {
 
     }
 
-    //d)Verificar
-    public void MetodoD(String[] espacios, int cont){
-        System.out.println("Substitucion del espacio por un +");
-        for (int i=0; i < cont;i++){
-            System.out.print(espacios[i]);
-        }
-    }
-}
+//    d)Pendiente
+//    public void MetodoD(String[] espacios, int cont){
+//        System.out.println("Substitucion del espacio por un +");
+//        for (int i=0; i < cont;i++){
+//        }
+ }
+

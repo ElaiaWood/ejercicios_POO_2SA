@@ -1,5 +1,15 @@
 import java.util.Scanner;
 
+//        Santiago Hirochi Cibriano Trejo
+//        Christian Dayana De La Cruz López
+//        Gaspar Emiliano Euan Puc
+//        Elias Uriel Xool Feria
+
+//9.- Se debe rellenar una matriz, de tal forma que su contenido sea un número que se irá
+//        incrementando en una unidad por fila. Debe pedirse el número inicial, con el cual se comenzará a
+//        rellenar el arreglo. Realizar el mismo procedimiento en otra matriz, para que el contenido sea un
+//        número que se irá incrementando en una unidad por columna.
+
 public class Ejer09 {
 
     public static void main(String[] args) {

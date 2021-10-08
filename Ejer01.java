@@ -1,7 +1,16 @@
 import java.util.Arrays;
 import java.util.Scanner;
-//Cambiar el nombre de los arreglos y llaves
-//Crear el metodo de impresion
+
+//        Santiago Hirochi Cibriano Trejo
+//        Christian Dayana De La Cruz López
+//        Gaspar Emiliano Euan Puc
+//        Elias Uriel Xool Feria
+
+//1.- Elabora una clase que utilice un arreglo unidimensional, lea N números y realice lo siguiente: a)
+//        almacene los números ascendentemente, b) almacene los números descendentemente, c) almacene
+//        los números pares, d) almacene los números impares, e) desplegar los resultados obtenidos.
+
+
 public class Ejer01 {
     //Atributos
     int i;

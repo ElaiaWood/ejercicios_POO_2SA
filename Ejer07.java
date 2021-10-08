@@ -1,7 +1,20 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//        Santiago Hirochi Cibriano Trejo
+//        Christian Dayana De La Cruz López
+//        Gaspar Emiliano Euan Puc
+//        Elias Uriel Xool Feria
+
+//    7.- Elabora una clase que genere un arreglo para N números, cada uno de los cuales debe estar
+//    entre 10 y 100 inclusive. A medida que se lea cada número, solo se pondrá en el arreglo si no es un
+//    duplicado de un número que ya se haya leído. Considerar el caso de que los N números son
+//    diferentes.
+
 public class Ejer07 {
+
+
+
     public Ejer07() {
 
     }
@@ -12,7 +25,10 @@ public class Ejer07 {
         int nNum, w = 0, datos;
         boolean condicional = true;
 
+
+
         ArrayList numeros = new ArrayList();
+//        int [] numeros = new int[5];
 
         do {
             System.out.println("Cuantos numeros desea que sea la lista?");
@@ -37,5 +53,8 @@ public class Ejer07 {
             }
             System.out.println("Listado de numeros: " + numeros);
         }while (condicional);
+
+
+
     }
 }

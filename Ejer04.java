@@ -1,6 +1,14 @@
 import java.util.Scanner;
-//Cambiar el nombre de los arreglos y llaves
-//Crear el metodo de impresion
+
+//        Santiago Hirochi Cibriano Trejo
+//        Christian Dayana De La Cruz López
+//        Gaspar Emiliano Euan Puc
+//        Elias Uriel Xool Feria
+
+//4.- Elabora una clase que genere un arreglo multidimensional, y que obtenga: a) la suma de la
+//        diagonal principal, b) el promedio de los elementos que están arriba de la diagonal principal, c) el
+//        promedio de los elementos que están abajo de la diagonal principal.
+
 public class Ejer04 {
 
     public Ejer04(){
